@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Interview"/>
+	<classpathentry kind="src" path="Search"/>
+	<classpathentry kind="src" path="Sorting"/>
+	<classpathentry kind="src" path="Hashing"/>
+	<classpathentry kind="src" path="Trees"/>
+	<classpathentry kind="src" path="LinkedList"/>
+	<classpathentry kind="src" path="Queue"/>
+	<classpathentry kind="src" path="PriortyQueue"/>
+	<classpathentry kind="src" path="Arrays"/>
+	<classpathentry kind="src" path="String"/>
+	<classpathentry kind="src" path="DynamicPrograming"/>
+	<classpathentry kind="src" path="Stack"/>
+	<classpathentry kind="src" path="Misc"/>
+	<classpathentry kind="src" path="Matrix"/>
+	<classpathentry kind="src" path="Graph"/>
+	<classpathentry kind="src" path="Recursion"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="Maths"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
